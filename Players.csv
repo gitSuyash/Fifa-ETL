@@ -1,124 +1,124 @@
-,id,name
-0,1,Marcelo
-1,2,Neymar
-2,3,Oscar
-3,4,Oribe Peralta
-4,5,Ivica Olić
-5,6,Ivan Perišić
-6,7,Mario Mandžukić
-7,8,Joel Matip
-8,9,Fred
-9,10,Fernandinho
-10,11,Rafael Márquez
-11,12,Andres Guardado
-12,13,Javier Hernández
-13,14,Xabi Alonso
-14,15,Robin Van Persie
-15,16,Arjen Robben
-16,17,Stefan De Vrij
-17,18,Alexis Sánchez
-18,19,Jorge Valdívia
-19,20,Cahill
-20,21,Jean Beausejour
-21,22,Eduardo Vargas
-22,23,Charles Aránguiz
-23,24,Tim Cahill
-24,25,Mile Jedinak
-25,26,Memphis Depay
-26,27,David Villa
-27,28,Fernando Torres
-28,29,Juan Mata
-29,30,Leroy Fer
-30,31,Pablo Armero
-31,32,Teofilo Gutiérrez
-32,33,James Rodríguez
-33,34,Keisuke Honda
-34,35,Wilfried Bony
-35,36,Gervinho
-36,37,Juan Quintero
-37,38,Juan Cuadrado
-38,39,Shinji Okazaki
-39,40,Jackson Martínez
-40,41,Andreas Samaris
-41,42,Georgios Samaras
-42,43,Edinson Cavani
-43,44,Joel Campbell
-44,45,Oscar Duarte
-45,46,Marcos Ureña
-46,47,Claudio Marchisio
-47,48,Daniel Sturridge
-48,49,Mario Balotelli
-49,50,Luis Suárez
-50,51,Wayne Rooney
-51,52,Bryan Ruiz
-52,53,Diego Godín
-53,54,Enner Valencia
-54,55,Admir Mehmedi
-55,56,Haris Seferović
-56,57,Karim Benzema
-57,58,Noel Valladares
-58,59,Olivier Giroud
-59,60,Blaise Matuidi
-60,61,Mathieu Valbuena
-61,62,Moussa Sissoko
-62,63,Blerim Džemaili
-63,64,Granit Xhaka
-64,65,Carlo Costly
-65,66,Xherdan Shaqiri
-66,67,Sead Kolašinac
-67,68,Lionel Messi
-68,69,Vedad Ibišević
-69,70,Peter Odemwingie
-70,71,Ahmed Musa
-71,72,Marcos Rojo
-72,73,Edin Džeko
-73,74,Miralem Pjanić
-74,75,Reza Ghoochannejhad
-75,76,Avdija Vršajević
-76,77,Thomas Müller
-77,78,Mats Hummels
-78,79,Clint Dempsey
-79,80,André Ayew
-80,81,John Brooks
-81,82,Mario Götze
-82,83,Asamoah Gyan
-83,84,Miroslav Klose
-84,85,Nani
-85,86,Jermaine Jones
-86,87,Varela
-87,88,John Boye
-88,89,Cristiano Ronaldo
-89,90,Sofiane Feghouli
-90,91,Marouane Fellaini
-91,92,Dries Mertens
-92,93,Lee Keunho
-93,94,Alexander Kerzhakov
-94,95,Divock Origi
-95,96,Islam Slimani
-96,97,Rafik Halliche
-97,98,Abdelmoumene Djabou
-98,99,Son Heung Min
-99,100,Yacine Brahimi
-100,101,Koo Jacheol
-101,102,Jan Vertonghen
-102,103,Alexander Kokorin
-103,104,David Luiz
-104,105,Giovani dos Santos
-105,106,Wesley Sneijder
-106,107,Klaas Jan Huntelaar
-107,108,Socratis Papastathopoulos
-108,109,Paul Pogba
-109,110,Joseph Yobo
-110,111,André Schürrle
-111,112,Mesut Özil
-112,113,Ángel di María
-113,114,Kevin De Bruyne
-114,115,Romelu Lukaku
-115,116,Julian Green
-116,117,Thiago Silva
-117,118,Gonzalo Higuaín
-118,119,Toni Kroos
-119,120,Sami Khedira
-120,121,Andre Schürrle
-121,122,Daley Blind
-122,123,Georginio Wijnaldum
+id,name
+1,Marcelo
+2,Neymar
+3,Oscar
+4,Oribe Peralta
+5,Ivica Olić
+6,Ivan Perišić
+7,Mario Mandžukić
+8,Joel Matip
+9,Fred
+10,Fernandinho
+11,Rafael Márquez
+12,Andres Guardado
+13,Javier Hernández
+14,Xabi Alonso
+15,Robin Van Persie
+16,Arjen Robben
+17,Stefan De Vrij
+18,Alexis Sánchez
+19,Jorge Valdívia
+20,Cahill
+21,Jean Beausejour
+22,Eduardo Vargas
+23,Charles Aránguiz
+24,Tim Cahill
+25,Mile Jedinak
+26,Memphis Depay
+27,David Villa
+28,Fernando Torres
+29,Juan Mata
+30,Leroy Fer
+31,Pablo Armero
+32,Teofilo Gutiérrez
+33,James Rodríguez
+34,Keisuke Honda
+35,Wilfried Bony
+36,Gervinho
+37,Juan Quintero
+38,Juan Cuadrado
+39,Shinji Okazaki
+40,Jackson Martínez
+41,Andreas Samaris
+42,Georgios Samaras
+43,Edinson Cavani
+44,Joel Campbell
+45,Oscar Duarte
+46,Marcos Ureña
+47,Claudio Marchisio
+48,Daniel Sturridge
+49,Mario Balotelli
+50,Luis Suárez
+51,Wayne Rooney
+52,Bryan Ruiz
+53,Diego Godín
+54,Enner Valencia
+55,Admir Mehmedi
+56,Haris Seferović
+57,Karim Benzema
+58,Noel Valladares
+59,Olivier Giroud
+60,Blaise Matuidi
+61,Mathieu Valbuena
+62,Moussa Sissoko
+63,Blerim Džemaili
+64,Granit Xhaka
+65,Carlo Costly
+66,Xherdan Shaqiri
+67,Sead Kolašinac
+68,Lionel Messi
+69,Vedad Ibišević
+70,Peter Odemwingie
+71,Ahmed Musa
+72,Marcos Rojo
+73,Edin Džeko
+74,Miralem Pjanić
+75,Reza Ghoochannejhad
+76,Avdija Vršajević
+77,Thomas Müller
+78,Mats Hummels
+79,Clint Dempsey
+80,André Ayew
+81,John Brooks
+82,Mario Götze
+83,Asamoah Gyan
+84,Miroslav Klose
+85,Nani
+86,Jermaine Jones
+87,Varela
+88,John Boye
+89,Cristiano Ronaldo
+90,Sofiane Feghouli
+91,Marouane Fellaini
+92,Dries Mertens
+93,Lee Keunho
+94,Alexander Kerzhakov
+95,Divock Origi
+96,Islam Slimani
+97,Rafik Halliche
+98,Abdelmoumene Djabou
+99,Son Heung Min
+100,Yacine Brahimi
+101,Koo Jacheol
+102,Jan Vertonghen
+103,Alexander Kokorin
+104,David Luiz
+105,Giovani dos Santos
+106,Wesley Sneijder
+107,Klaas Jan Huntelaar
+108,Socratis Papastathopoulos
+109,Paul Pogba
+110,Joseph Yobo
+111,André Schürrle
+112,Mesut Özil
+113,Ángel di María
+114,Kevin De Bruyne
+115,Romelu Lukaku
+116,Julian Green
+117,Thiago Silva
+118,Gonzalo Higuaín
+119,Toni Kroos
+120,Sami Khedira
+121,Andre Schürrle
+122,Daley Blind
+123,Georginio Wijnaldum
