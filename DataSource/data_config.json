@@ -1,0 +1,12 @@
+{
+	"api": {
+		"Teams":"https://montanaflynn-fifa-world-cup.p.rapidapi.com/teams",
+		"Goals":"https://montanaflynn-fifa-world-cup.p.rapidapi.com/goals",
+		"Players":"https://montanaflynn-fifa-world-cup.p.rapidapi.com/persons",
+		"Games":"https://montanaflynn-fifa-world-cup.p.rapidapi.com/games"
+	},
+	"headers":{
+		"x-rapidapi-key": "77957d8d91mshc227bb7b796e385p1b15c2jsn54d1f0ed87c3"
+	}
+
+}
