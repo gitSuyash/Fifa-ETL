@@ -1,0 +1,22 @@
+[
+{"id":1,"title":"Matchday 1","title2":"","pos":1,"knockout":"f","start_at":"2014-06-12","end_at":"2014-06-12","auto":"t","created_at":"2014-11-28 11:46:29.267483","updated_at":"2014-11-28 11:46:29.267483"},
+{"id":2,"title":"Matchday 2","title2":"","pos":2,"knockout":"f","start_at":"2014-06-13","end_at":"2014-06-13","auto":"t","created_at":"2014-11-28 11:46:29.270726","updated_at":"2014-11-28 11:46:29.270726"},
+{"id":3,"title":"Matchday 3","title2":"","pos":3,"knockout":"f","start_at":"2014-06-14","end_at":"2014-06-14","auto":"t","created_at":"2014-11-28 11:46:29.273343","updated_at":"2014-11-28 11:46:29.273343"},
+{"id":4,"title":"Matchday 4","title2":"","pos":4,"knockout":"f","start_at":"2014-06-15","end_at":"2014-06-15","auto":"t","created_at":"2014-11-28 11:46:29.276206","updated_at":"2014-11-28 11:46:29.276206"},
+{"id":5,"title":"Matchday 5","title2":"","pos":5,"knockout":"f","start_at":"2014-06-16","end_at":"2014-06-16","auto":"t","created_at":"2014-11-28 11:46:29.279239","updated_at":"2014-11-28 11:46:29.279239"},
+{"id":6,"title":"Matchday 6","title2":"","pos":6,"knockout":"f","start_at":"2014-06-17","end_at":"2014-06-17","auto":"t","created_at":"2014-11-28 11:46:29.282767","updated_at":"2014-11-28 11:46:29.282767"},
+{"id":7,"title":"Matchday 7","title2":"","pos":7,"knockout":"f","start_at":"2014-06-18","end_at":"2014-06-18","auto":"t","created_at":"2014-11-28 11:46:29.285336","updated_at":"2014-11-28 11:46:29.285336"},
+{"id":8,"title":"Matchday 8","title2":"","pos":8,"knockout":"f","start_at":"2014-06-19","end_at":"2014-06-19","auto":"t","created_at":"2014-11-28 11:46:29.288096","updated_at":"2014-11-28 11:46:29.288096"},
+{"id":9,"title":"Matchday 9","title2":"","pos":9,"knockout":"f","start_at":"2014-06-20","end_at":"2014-06-20","auto":"t","created_at":"2014-11-28 11:46:29.290663","updated_at":"2014-11-28 11:46:29.290663"},
+{"id":10,"title":"Matchday 10","title2":"","pos":10,"knockout":"f","start_at":"2014-06-21","end_at":"2014-06-21","auto":"t","created_at":"2014-11-28 11:46:29.293869","updated_at":"2014-11-28 11:46:29.293869"},
+{"id":11,"title":"Matchday 11","title2":"","pos":11,"knockout":"f","start_at":"2014-06-22","end_at":"2014-06-22","auto":"t","created_at":"2014-11-28 11:46:29.296332","updated_at":"2014-11-28 11:46:29.296332"},
+{"id":12,"title":"Matchday 12","title2":"","pos":12,"knockout":"f","start_at":"2014-06-23","end_at":"2014-06-23","auto":"t","created_at":"2014-11-28 11:46:29.298717","updated_at":"2014-11-28 11:46:29.298717"},
+{"id":13,"title":"Matchday 13","title2":"","pos":13,"knockout":"f","start_at":"2014-06-24","end_at":"2014-06-24","auto":"t","created_at":"2014-11-28 11:46:29.300966","updated_at":"2014-11-28 11:46:29.300966"},
+{"id":14,"title":"Matchday 14","title2":"","pos":14,"knockout":"f","start_at":"2014-06-25","end_at":"2014-06-25","auto":"t","created_at":"2014-11-28 11:46:29.303270","updated_at":"2014-11-28 11:46:29.303270"},
+{"id":15,"title":"Matchday 15","title2":"","pos":15,"knockout":"f","start_at":"2014-06-26","end_at":"2014-06-26","auto":"t","created_at":"2014-11-28 11:46:29.305430","updated_at":"2014-11-28 11:46:29.305430"},
+{"id":16,"title":"Round of 16","title2":"","pos":16,"knockout":"t","start_at":"2014-06-28","end_at":"2014-07-01","auto":"t","created_at":"2014-11-28 11:46:29.307896","updated_at":"2014-11-28 11:46:29.307896"},
+{"id":17,"title":"Quarter-finals","title2":"","pos":17,"knockout":"t","start_at":"2014-07-04","end_at":"2014-07-05","auto":"t","created_at":"2014-11-28 11:46:29.310457","updated_at":"2014-11-28 11:46:29.310457"},
+{"id":18,"title":"Semi-finals","title2":"","pos":18,"knockout":"t","start_at":"2014-07-08","end_at":"2014-07-09","auto":"t","created_at":"2014-11-28 11:46:29.313989","updated_at":"2014-11-28 11:46:29.313989"},
+{"id":19,"title":"Match for third place","title2":"","pos":19,"knockout":"t","start_at":"2014-07-12","end_at":"2014-07-12","auto":"t","created_at":"2014-11-28 11:46:29.317002","updated_at":"2014-11-28 11:46:29.317002"},
+{"id":20,"title":"Final","title2":"","pos":20,"knockout":"t","start_at":"2014-07-13","end_at":"2014-07-13","auto":"t","created_at":"2014-11-28 11:46:29.319472","updated_at":"2014-11-28 11:46:29.319472"}
+]
