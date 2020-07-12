@@ -1,0 +1,172 @@
+id,players,game_id,team,penalty,owngoal,minute,opponent,knockout,round
+1,Marcelo,1,Croatia,0,1,11,Brazil,0,Matchday 1
+2,Neymar,1,Brazil,0,0,29,Croatia,0,Matchday 1
+3,Neymar,1,Brazil,1,0,71,Croatia,0,Matchday 1
+4,Oscar,1,Brazil,0,0,90,Croatia,0,Matchday 1
+5,Oribe Peralta,2,Mexico,0,0,61,Cameroon,0,Matchday 2
+6,Ivica Olić,4,Croatia,0,0,11,Cameroon,0,Matchday 7
+7,Ivan Perišić,4,Croatia,0,0,48,Cameroon,0,Matchday 7
+8,Mario Mandžukić,4,Croatia,0,0,61,Cameroon,0,Matchday 7
+9,Mario Mandžukić,4,Croatia,0,0,73,Cameroon,0,Matchday 7
+10,Neymar,5,Brazil,0,0,17,Cameroon,0,Matchday 12
+11,Joel Matip,5,Cameroon,0,0,26,Brazil,0,Matchday 12
+12,Neymar,5,Brazil,0,0,35,Cameroon,0,Matchday 12
+13,Fred,5,Brazil,0,0,49,Cameroon,0,Matchday 12
+14,Fernandinho,5,Brazil,0,0,84,Cameroon,0,Matchday 12
+15,Rafael Márquez,6,Mexico,0,0,72,Croatia,0,Matchday 12
+16,Andres Guardado,6,Mexico,0,0,75,Croatia,0,Matchday 12
+17,Javier Hernández,6,Mexico,0,0,82,Croatia,0,Matchday 12
+18,Ivan Perišić,6,Croatia,0,0,87,Mexico,0,Matchday 12
+19,Xabi Alonso,7,Spain,1,0,27,Netherlands,0,Matchday 2
+20,Robin Van Persie,7,Netherlands,0,0,44,Spain,0,Matchday 2
+21,Arjen Robben,7,Netherlands,0,0,53,Spain,0,Matchday 2
+22,Stefan De Vrij,7,Netherlands,0,0,65,Spain,0,Matchday 2
+23,Robin Van Persie,7,Netherlands,0,0,72,Spain,0,Matchday 2
+24,Arjen Robben,7,Netherlands,0,0,80,Spain,0,Matchday 2
+25,Alexis Sánchez,8,Chile,0,0,12,Australia,0,Matchday 2
+26,Jorge Valdívia,8,Chile,0,0,14,Australia,0,Matchday 2
+27,Cahill,8,Australia,0,0,35,Chile,0,Matchday 2
+28,Jean Beausejour,8,Chile,0,0,90,Australia,0,Matchday 2
+29,Eduardo Vargas,9,Chile,0,0,20,Spain,0,Matchday 7
+30,Charles Aránguiz,9,Chile,0,0,43,Spain,0,Matchday 7
+31,Arjen Robben,10,Netherlands,0,0,20,Australia,0,Matchday 7
+32,Tim Cahill,10,Australia,0,0,21,Netherlands,0,Matchday 7
+33,Mile Jedinak,10,Australia,1,0,54,Netherlands,0,Matchday 7
+34,Robin Van Persie,10,Netherlands,0,0,58,Australia,0,Matchday 7
+35,Memphis Depay,10,Netherlands,0,0,68,Australia,0,Matchday 7
+36,David Villa,11,Spain,0,0,36,Australia,0,Matchday 12
+37,Fernando Torres,11,Spain,0,0,69,Australia,0,Matchday 12
+38,Juan Mata,11,Spain,0,0,82,Australia,0,Matchday 12
+39,Leroy Fer,12,Netherlands,0,0,77,Chile,0,Matchday 12
+40,Memphis Depay,12,Netherlands,0,0,90,Chile,0,Matchday 12
+41,Pablo Armero,13,Colombia,0,0,5,Greece,0,Matchday 3
+42,Teofilo Gutiérrez,13,Colombia,0,0,58,Greece,0,Matchday 3
+43,James Rodríguez,13,Colombia,0,0,90,Greece,0,Matchday 3
+44,Keisuke Honda,14,Japan,0,0,16,Côte d'Ivoire,0,Matchday 3
+45,Wilfried Bony,14,Côte d'Ivoire,0,0,64,Japan,0,Matchday 3
+46,Gervinho,14,Côte d'Ivoire,0,0,66,Japan,0,Matchday 3
+47,James Rodríguez,15,Colombia,0,0,64,Côte d'Ivoire,0,Matchday 8
+48,Juan Quintero,15,Colombia,0,0,70,Côte d'Ivoire,0,Matchday 8
+49,Gervinho,15,Côte d'Ivoire,0,0,73,Colombia,0,Matchday 8
+50,Juan Cuadrado,17,Colombia,1,0,17,Japan,0,Matchday 13
+51,Shinji Okazaki,17,Japan,0,0,45,Colombia,0,Matchday 13
+52,Jackson Martínez,17,Colombia,0,0,55,Japan,0,Matchday 13
+53,Jackson Martínez,17,Colombia,0,0,82,Japan,0,Matchday 13
+54,James Rodríguez,17,Colombia,0,0,90,Japan,0,Matchday 13
+55,Andreas Samaris,18,Greece,0,0,42,Côte d'Ivoire,0,Matchday 13
+56,Wilfried Bony,18,Côte d'Ivoire,0,0,74,Greece,0,Matchday 13
+57,Georgios Samaras,18,Greece,1,0,90,Côte d'Ivoire,0,Matchday 13
+58,Edinson Cavani,19,Uruguay,1,0,24,Costa Rica,0,Matchday 3
+59,Joel Campbell,19,Costa Rica,0,0,54,Uruguay,0,Matchday 3
+60,Oscar Duarte,19,Costa Rica,0,0,57,Uruguay,0,Matchday 3
+61,Marcos Ureña,19,Costa Rica,0,0,84,Uruguay,0,Matchday 3
+62,Claudio Marchisio,20,Italy,0,0,35,England,0,Matchday 3
+63,Daniel Sturridge,20,England,0,0,37,Italy,0,Matchday 3
+64,Mario Balotelli,20,Italy,0,0,50,England,0,Matchday 3
+65,Luis Suárez,21,Uruguay,0,0,39,England,0,Matchday 8
+66,Wayne Rooney,21,England,0,0,75,Uruguay,0,Matchday 8
+67,Luis Suárez,21,Uruguay,0,0,85,England,0,Matchday 8
+68,Bryan Ruiz,22,Costa Rica,0,0,44,Italy,0,Matchday 9
+69,Diego Godín,23,Uruguay,0,0,81,Italy,0,Matchday 13
+70,Enner Valencia,25,Ecuador,0,0,22,Switzerland,0,Matchday 4
+71,Admir Mehmedi,25,Switzerland,0,0,48,Ecuador,0,Matchday 4
+72,Haris Seferović,25,Switzerland,0,0,90,Ecuador,0,Matchday 4
+73,Karim Benzema,26,France,1,0,45,Honduras,0,Matchday 4
+74,Noel Valladares,26,France,0,1,48,Honduras,0,Matchday 4
+75,Karim Benzema,26,France,0,0,72,Honduras,0,Matchday 4
+76,Olivier Giroud,27,France,0,0,17,Switzerland,0,Matchday 9
+77,Blaise Matuidi,27,France,0,0,18,Switzerland,0,Matchday 9
+78,Mathieu Valbuena,27,France,0,0,40,Switzerland,0,Matchday 9
+79,Karim Benzema,27,France,0,0,67,Switzerland,0,Matchday 9
+80,Moussa Sissoko,27,France,0,0,73,Switzerland,0,Matchday 9
+81,Blerim Džemaili,27,Switzerland,0,0,81,France,0,Matchday 9
+82,Granit Xhaka,27,Switzerland,0,0,87,France,0,Matchday 9
+83,Carlo Costly,28,Honduras,0,0,31,Ecuador,0,Matchday 9
+84,Enner Valencia,28,Ecuador,0,0,34,Honduras,0,Matchday 9
+85,Enner Valencia,28,Ecuador,0,0,65,Honduras,0,Matchday 9
+86,Xherdan Shaqiri,29,Switzerland,0,0,6,Honduras,0,Matchday 14
+87,Xherdan Shaqiri,29,Switzerland,0,0,31,Honduras,0,Matchday 14
+88,Xherdan Shaqiri,29,Switzerland,0,0,71,Honduras,0,Matchday 14
+89,Sead Kolašinac,31,Argentina,0,1,3,Bosnia-Herzegovina,0,Matchday 4
+90,Lionel Messi,31,Argentina,0,0,65,Bosnia-Herzegovina,0,Matchday 4
+91,Vedad Ibišević,31,Bosnia-Herzegovina,0,0,85,Argentina,0,Matchday 4
+92,Lionel Messi,33,Argentina,0,0,90,Iran,0,Matchday 10
+93,Peter Odemwingie,34,Nigeria,0,0,29,Bosnia-Herzegovina,0,Matchday 10
+94,Lionel Messi,35,Argentina,0,0,3,Nigeria,0,Matchday 14
+95,Ahmed Musa,35,Nigeria,0,0,4,Argentina,0,Matchday 14
+96,Lionel Messi,35,Argentina,0,0,45,Nigeria,0,Matchday 14
+97,Ahmed Musa,35,Nigeria,0,0,47,Argentina,0,Matchday 14
+98,Marcos Rojo,35,Argentina,0,0,50,Nigeria,0,Matchday 14
+99,Edin Džeko,36,Bosnia-Herzegovina,0,0,23,Iran,0,Matchday 14
+100,Miralem Pjanić,36,Bosnia-Herzegovina,0,0,59,Iran,0,Matchday 14
+101,Reza Ghoochannejhad,36,Iran,0,0,82,Bosnia-Herzegovina,0,Matchday 14
+102,Avdija Vršajević,36,Bosnia-Herzegovina,0,0,83,Iran,0,Matchday 14
+103,Thomas Müller,37,Germany,1,0,12,Portugal,0,Matchday 5
+104,Mats Hummels,37,Germany,0,0,32,Portugal,0,Matchday 5
+105,Thomas Müller,37,Germany,0,0,45,Portugal,0,Matchday 5
+106,Thomas Müller,37,Germany,0,0,78,Portugal,0,Matchday 5
+107,Clint Dempsey,38,United States,0,0,1,Ghana,0,Matchday 5
+108,André Ayew,38,Ghana,0,0,82,United States,0,Matchday 5
+109,John Brooks,38,United States,0,0,86,Ghana,0,Matchday 5
+110,Mario Götze,39,Germany,0,0,51,Ghana,0,Matchday 10
+111,André Ayew,39,Ghana,0,0,54,Germany,0,Matchday 10
+112,Asamoah Gyan,39,Ghana,0,0,63,Germany,0,Matchday 10
+113,Miroslav Klose,39,Germany,0,0,71,Ghana,0,Matchday 10
+114,Nani,40,Portugal,0,0,5,United States,0,Matchday 11
+115,Jermaine Jones,40,United States,0,0,64,Portugal,0,Matchday 11
+116,Clint Dempsey,40,United States,0,0,81,Portugal,0,Matchday 11
+117,Varela,40,Portugal,0,0,90,United States,0,Matchday 11
+118,Thomas Müller,41,Germany,0,0,55,United States,0,Matchday 15
+119,John Boye,42,Portugal,0,1,31,Ghana,0,Matchday 15
+120,Asamoah Gyan,42,Ghana,0,0,57,Portugal,0,Matchday 15
+121,Cristiano Ronaldo,42,Portugal,0,0,80,Ghana,0,Matchday 15
+122,Sofiane Feghouli,43,Algeria,1,0,25,Belgium,0,Matchday 6
+123,Marouane Fellaini,43,Belgium,0,0,70,Algeria,0,Matchday 6
+124,Dries Mertens,43,Belgium,0,0,80,Algeria,0,Matchday 6
+125,Lee Keunho,44,South Korea,0,0,68,Russia,0,Matchday 6
+126,Alexander Kerzhakov,44,Russia,0,0,74,South Korea,0,Matchday 6
+127,Divock Origi,45,Belgium,0,0,88,Russia,0,Matchday 11
+128,Islam Slimani,46,Algeria,0,0,26,South Korea,0,Matchday 11
+129,Rafik Halliche,46,Algeria,0,0,28,South Korea,0,Matchday 11
+130,Abdelmoumene Djabou,46,Algeria,0,0,38,South Korea,0,Matchday 11
+131,Son Heung Min,46,South Korea,0,0,50,Algeria,0,Matchday 11
+132,Yacine Brahimi,46,Algeria,0,0,62,South Korea,0,Matchday 11
+133,Koo Jacheol,46,South Korea,0,0,72,Algeria,0,Matchday 11
+134,Jan Vertonghen,47,Belgium,0,0,78,South Korea,0,Matchday 15
+135,Alexander Kokorin,48,Russia,0,0,6,Algeria,0,Matchday 15
+136,Islam Slimani,48,Algeria,0,0,60,Russia,0,Matchday 15
+137,David Luiz,49,Brazil,0,0,18,Chile,1,Round of 16
+138,Alexis Sánchez,49,Chile,0,0,32,Brazil,1,Round of 16
+139,James Rodríguez,50,Colombia,0,0,28,Uruguay,1,Round of 16
+140,James Rodríguez,50,Colombia,0,0,50,Uruguay,1,Round of 16
+141,Giovani dos Santos,51,Mexico,0,0,48,Netherlands,1,Round of 16
+142,Wesley Sneijder,51,Netherlands,0,0,88,Mexico,1,Round of 16
+143,Klaas Jan Huntelaar,51,Netherlands,0,0,90,Mexico,1,Round of 16
+144,Bryan Ruiz,52,Costa Rica,0,0,52,Greece,1,Round of 16
+145,Socratis Papastathopoulos,52,Greece,0,0,90,Costa Rica,1,Round of 16
+146,Paul Pogba,53,France,0,0,79,Nigeria,1,Round of 16
+147,Joseph Yobo,53,France,0,1,90,Nigeria,1,Round of 16
+148,André Schürrle,54,Germany,0,0,92,Algeria,1,Round of 16
+149,Mesut Özil,54,Germany,0,0,120,Algeria,1,Round of 16
+150,Abdelmoumene Djabou,54,Algeria,0,0,121,Germany,1,Round of 16
+151,Ángel di María,55,Argentina,0,0,118,Switzerland,1,Round of 16
+152,Kevin De Bruyne,56,Belgium,0,0,93,United States,1,Round of 16
+153,Romelu Lukaku,56,Belgium,0,0,105,United States,1,Round of 16
+154,Julian Green,56,United States,0,0,107,Belgium,1,Round of 16
+155,Thiago Silva,57,Brazil,0,0,7,Colombia,1,Quarter-finals
+156,David Luiz,57,Brazil,0,0,69,Colombia,1,Quarter-finals
+157,James Rodríguez,57,Colombia,1,0,80,Brazil,1,Quarter-finals
+158,Mats Hummels,58,Germany,0,0,13,France,1,Quarter-finals
+159,Gonzalo Higuaín,60,Argentina,0,0,8,Belgium,1,Quarter-finals
+160,Thomas Müller,61,Germany,0,0,11,Brazil,1,Semi-finals
+161,Miroslav Klose,61,Germany,0,0,23,Brazil,1,Semi-finals
+162,Toni Kroos,61,Germany,0,0,24,Brazil,1,Semi-finals
+163,Toni Kroos,61,Germany,0,0,26,Brazil,1,Semi-finals
+164,Sami Khedira,61,Germany,0,0,29,Brazil,1,Semi-finals
+165,Andre Schürrle,61,Germany,0,0,69,Brazil,1,Semi-finals
+166,Andre Schürrle,61,Germany,0,0,79,Brazil,1,Semi-finals
+167,Oscar,61,Brazil,0,0,90,Germany,1,Semi-finals
+168,Robin Van Persie,63,Netherlands,1,0,3,Brazil,1,Match for third place
+169,Daley Blind,63,Netherlands,0,0,17,Brazil,1,Match for third place
+170,Georginio Wijnaldum,63,Netherlands,0,0,90,Brazil,1,Match for third place
+171,Mario Götze,64,Germany,0,0,113,Argentina,1,Final

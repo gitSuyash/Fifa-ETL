@@ -83,13 +83,11 @@ class Transformation:
 		team1_id=[]
 		team2_id=[]
 		knockout = []
-		round_id = []
 		def append_game_data(dict_):
 			id_.append(dict_['id'])
 			team1_id.append(dict_['team1_id'])
 			team2_id.append(dict_['team2_id'])
 			knockout.append(dict_['knockout'])
-			round_id.append(dict_['round_id'])
 		my_list = self.games_data.split('\n')
 		for i in range(1,len(my_list)-1):
 			if i != len(my_list)-2:
@@ -98,8 +96,7 @@ class Transformation:
 			else: 
 				dict_ = json.loads(my_list[i])
 				append_game_data(dict_)
-		self.data_csv = pd.DataFrame({'id':id_,'team1_id':team1_id,'team2_id':team2_id,'knockout':knockout,
-			'round_id':round_id})
+		self.data_csv = pd.DataFrame({'id':id_,'team1_id':team1_id,'team2_id':team2_id,'knockout':knockout})
 		self.data_csv.to_csv('Games.csv',index=False)
 
 	def RoundsData(self):
