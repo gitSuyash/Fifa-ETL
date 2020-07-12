@@ -42,7 +42,7 @@ class Transformation:
 				
 		self.data_csv = pd.DataFrame({'id':id_,'person_id':person_id,'game_id':game_id,'team_id':team_id,
 			'penalty':penalty,'owngoal':owngoal,'minute':minute})
-		self.data_csv.to_csv('Goals.csv',index=False)
+		return self.data_csv
 
 	def PlayerData(self):
 		id_=[]
@@ -58,8 +58,8 @@ class Transformation:
 			else: 
 				dict_ = json.loads(my_list[i])
 				append_player_data(dict_)
-		self.data_csv = pd.DataFrame({'id':id_,'name':name})
-		self.data_csv.to_csv('Players.csv',index=False)
+		self.data_csv = pd.DataFrame({'id':id_,'name':name})		
+		return self.data_csv
 		
 	def TeamData(self):
 		id_=[]
@@ -76,7 +76,7 @@ class Transformation:
 				dict_ = json.loads(my_list[i])
 				append_team_data(dict_)
 		self.data_csv = pd.DataFrame({'id':id_,'title':title})
-		self.data_csv.to_csv('Teams.csv',index=False)
+		return self.data_csv
 
 	def GameData(self):
 		id_=[]
@@ -100,7 +100,7 @@ class Transformation:
 				append_game_data(dict_)
 		self.data_csv = pd.DataFrame({'id':id_,'team1_id':team1_id,'team2_id':team2_id,'knockout':knockout,
 			'round_id':round_id})
-		self.data_csv.to_csv('Games.csv',index=False)
+		return self.data_csv
 
 	def RoundsData(self):
 		id_=[]
@@ -117,14 +117,14 @@ class Transformation:
 				dict_ = json.loads(my_list[i])
 				append_round_data(dict_)
 		self.data_csv = pd.DataFrame({'id':id_,'title':title})
-		self.data_csv.to_csv('Rounds.csv',index=False)
+		return self.data_csv
 
-Transformation().GoalData()
-Transformation().GameData()
-Transformation().PlayerData()
-Transformation().RoundsData()
-Transformation().TeamData()
+# Transformation().GoalData()
+# Transformation().GameData()
+# Transformation().PlayerData()
+# Transformation().RoundsData()
+# Transformation().TeamData()
 
-print('Successfully Transformed')
+# print('Successfully Transformed')
 
 
