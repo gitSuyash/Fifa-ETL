@@ -13,6 +13,9 @@ class Extract:
 	def getAPISData(self,api_name):
 		url = self.api_names[api_name]
 		response = requests.request("GET",url,headers=self.header)
+		# file = open(api_name+'.txt','w+',encoding="utf-8")
+		# file.write(response.text)
+		# file.close()
 		return response.text
 #test runs
 # Extract().getAPISData('Teams')
