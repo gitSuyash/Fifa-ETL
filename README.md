@@ -1,6 +1,6 @@
 # Fifa ETL & Analysis
 
-#### In this repository I've demonstrated how to extract data from different API's, transform it in a meaningful data and finally load it an interpretable form to gain further knowledge from it.
+#### In this repository I've demonstrated how to Extract data from different API's, Transform it into meaningful data and finally Load it in an interpretable form.
 
 ##### Walkthrough:
 
@@ -14,9 +14,9 @@
     Note: A key is required to access these API's which can be obtained from ```RapidAPI```
     
 2. Transform the json data present into a csv format along with necessary features:
-    * Data present is not directly in the format of json, list or dictionary
-    * It is of type string(str)
-    * Write the functions that extract dictionary part the strings and finally return a DataFrame.
+    * Data present is not directly in the format of ```json```, ```list``` or ```dictionary```
+    * It is of type string(```str```)
+    * Write the functions that extract dictionary part from the strings and finally return a DataFrame.
    
 3. Load the required data from all 5 sources in a single DataFrame and save it as ```data.csv```
 4. Perform analysis on ```data.csv```

@@ -5,10 +5,10 @@ import numpy as np
 
 class Transformation:
 
-	
 	def __init__(self):
 		extractObj = Extract()
 
+		# load API data
 		self.goal_data = extractObj.getAPISData('Goals')
 		self.player_data = extractObj.getAPISData('Players')
 		self.team_data = extractObj.getAPISData('Teams')
@@ -16,6 +16,7 @@ class Transformation:
 		self.rounds_data = extractObj.getAPISData('Rounds')
 
 	def GoalData(self):
+		# list of columns to be added in a dataframe
 		id_=[]
 		person_id=[]
 		game_id =[]
@@ -23,6 +24,9 @@ class Transformation:
 		penalty = []
 		owngoal = []
 		minute=[]
+		team_score=[]
+		opponent_score=[]
+		# function to append data into lists
 		def append_goal_data(dict_):
 			id_.append(dict_['id'])
 			person_id.append(dict_['person_id'])
@@ -31,7 +35,10 @@ class Transformation:
 			penalty.append(dict_['penalty'])
 			owngoal.append(dict_['owngoal'])
 			minute.append(dict_['minute'])
-		my_list = self.goal_data.split('\n')
+			team_score.append(dict_['score1'])
+			opponent_score.append(dict_['score2'])
+		#extract dictionary from string and append it in a list
+		my_list = self.goal_data.split('\n') 
 		for i in range(1,len(my_list)-1):
 			if i != len(my_list)-2:
 				dict_ = json.loads(my_list[i][:-1])
@@ -40,9 +47,11 @@ class Transformation:
 				dict_ = json.loads(my_list[i])
 				append_goal_data(dict_)
 				
+		# create dataframe using lists 
 		self.data_csv = pd.DataFrame({'id':id_,'person_id':person_id,'game_id':game_id,'team_id':team_id,
-			'penalty':penalty,'owngoal':owngoal,'minute':minute})
-		return self.data_csv
+			'penalty':penalty,'owngoal':owngoal,'minute':minute,'team_score':team_score,
+			'opponent_score':opponent_score})
+		return self.data_csv #return a dataframe
 
 	def PlayerData(self):
 		id_=[]
@@ -119,6 +128,7 @@ class Transformation:
 		self.data_csv = pd.DataFrame({'id':id_,'title':title})
 		return self.data_csv
 
+#test run
 # Transformation().GoalData()
 # Transformation().GameData()
 # Transformation().PlayerData()
